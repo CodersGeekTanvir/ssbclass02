@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    background-color: beige;
+    
+}
+
+.header{
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.header img{
+    max-width: 100%;
+}
+
+.motto{
+    text-align: center;  
+   width: 350px;  
+   margin-left: auto;
+   margin-right: auto;
+   font-size: 20px;
+}
+.blue{
+    color: #7485f8;
+}
+.red{
+    color: #fa326d;
+}
+.green{
+    color: #42c16f;
+}
+.yellow{
+    color: rgb(214, 214, 30);
+}
+
+.banner{
+    width: 1149px;
+    margin-left:auto ;
+    margin-right:auto;
+    
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.banner img{
+   max-width: 100%;
+}
+
+.description h1{
+    width: 180px;    
+    margin-left: 100px;
+}
+.description p{
+    width: 1149px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    line-height: 40px;
+}
+
+.footer{
+   background-color: #13863b;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   width: 1149px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 50px;
+   
+}
+.footer h4{
+    
+   text-align: center;
+   font-size: 30px;
+   color: white;
+   width: 509px;
+   margin-left: auto;
+   margin-right: auto;
+
+
+}
